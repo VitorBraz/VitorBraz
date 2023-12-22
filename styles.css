@@ -1,0 +1,15 @@
+.container {
+  background-color: #1c626e;
+  padding: 20px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  font-family: 'Your-Preferred-Font', sans-serif;
+}
+
+.container img {
+  width: 100%;
+}
+
+.container h1 {
+  font-family: 'Your-Preferred-Font', sans-serif;
+}

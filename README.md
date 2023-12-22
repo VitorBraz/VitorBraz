@@ -5,13 +5,18 @@
 
 
 
+
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ffA500&height=120&section=footer"/>
-
-
-[![My Skills](https://skillicons.dev/icons?i=aws,bootstrap,css,discord,bots,docker,dynamodb,express,github,graphql,html,instagram,js,jquery,laravel,linux,mysql,nodejs,php,postgres,postman,py,rabbitmq,react,redis&perline=20)](https://skillicons.dev)
 
 
   <a href="https://www.linkedin.com/in/vitor-de-jesus-77b705255/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555" />
   </a>
+  
+---
+## TECNOLOGIAS
+
+  [![My Skills](https://skillicons.dev/icons?i=aws,bootstrap,css,discord,bots,docker,dynamodb,express,github,graphql,html,instagram,js,jquery,laravel,linux,mysql,nodejs,php,postgres,postman,py,rabbitmq,react,redis&perline=20)](https://skillicons.dev)
+
 </div>

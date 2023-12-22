@@ -11,12 +11,12 @@
   
   ### TECHNOLOGIES I'M FAMILIAR 
   
-  [![My Skills](https://skillicons.dev/icons?i=aws,bootstrap,css,discord,bots,docker,dynamodb,express,github,graphql,html,instagram,js,jquery,laravel,linux,mysql,php,postgres,postman,py,rabbitmq,redis&perline=20)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=aws,bootstrap,css,discord,docker,dynamodb,express,github,graphql,html,instagram,js,jquery,laravel,linux,mysql,php,postgres,postman,py,rabbitmq,redis&perline=20)](https://skillicons.dev)
  
   ---
 
-  ### BUT I AM FASCINATED BY WEB DEVELOPMENT AND AUTOMATIONS
-  [![My Skills](https://skillicons.dev/icons?i=nodejs,react&perline=20)](https://skillicons.dev)
+  ### BUT I AM 🧡 WEB DEVELOPMENT AND AUTOMATIONS
+  [![My Skills](https://skillicons.dev/icons?i=nodejs,react,bots&perline=20)](https://skillicons.dev)
   <img src="https://res.cloudinary.com/apideck/image/upload/v1570559986/catalog/n8n-io/icon128x128.png" alt="Novo Ícone" width="50" height="50" />
 
   ---

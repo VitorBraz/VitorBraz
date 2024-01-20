@@ -12,7 +12,7 @@
   ### TECHNOLOGIES I'M FAMILIAR 
   
   [![My Skills](https://skillicons.dev/icons?i=aws,bootstrap,css,discord,docker,dynamodb,express,github,graphql,html,instagram,js,jquery,laravel,linux,mysql,php,postgres,postman,py,rabbitmq,redis,nodejs,react,bot&perline=20)](https://skillicons.dev)
-  <img src="N8N.png" alt="Novo Ícone" width="50" height="50" />
+ 
 
 
   ---
